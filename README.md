@@ -1,7 +1,7 @@
 # client-server-project
 An implementation of a client and server text-based application that uses synchronous TCP stream sockets.
 
-#User Guide
+# User Guide
 
 This is a one-page user guide that provides a step-by-step process to guide a user in running the program.
 
